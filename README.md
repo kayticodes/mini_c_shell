@@ -33,7 +33,7 @@ Feel free to contribute to this project by submitting pull requests. If you have
 
 This project is licensed under the MIT License 
 
-## Acknowlefgements 
+## Acknowledgements 
 
 Thanks to the creators of the Unix process API and signal handling functions, which made this project possible.
 
