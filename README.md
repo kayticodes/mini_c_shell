@@ -25,7 +25,18 @@ To use smallsh, simply compile the source code and run the executable. You'll be
 
 Clone this repository and compile the source code using your favorite C compiler. You can then run the smallsh executable to start using the shell.
 
+## Contribution 
 
+Feel free to contribute to this project by submitting pull requests. If you have any ideas for additional features or improvements, don't hesitate to share them!
 
+ ## License 
+
+This project is licensed under the MIT License 
+
+## Acknowlefgements 
+
+Thanks to the creators of the Unix process API and signal handling functions, which made this project possible.
+
+ 
 
 
